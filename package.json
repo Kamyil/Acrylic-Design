@@ -1,0 +1,27 @@
+{
+  "name": "glass-material",
+  "version": "1.0.0",
+  "description": "Glass Material demo on web ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kamyil/Glass-Material.git"
+  },
+  "keywords": [
+    "Glass",
+    "Material",
+    "Acrylic"
+  ],
+  "author": "Kamil \"Kamyil\" Bugajak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kamyil/Glass-Material/issues"
+  },
+  "homepage": "https://github.com/Kamyil/Glass-Material#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
