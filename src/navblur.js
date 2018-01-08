@@ -1,7 +1,9 @@
-var pageContent = document.querySelector(".contentViewport .content");
-var pagecopy = pageContent.cloneNode(true);
-var blurryContent = document.querySelector(".overlayViewport .content-wrapper");
-var blurryContentViewport = document.querySelector(".overlayViewport");
+const pageContent = document.querySelector(".contentViewport .content");
+const pagecopy = pageContent.cloneNode(true);
+const blurryContent = document.querySelector(".overlay-view .content-wrapper");
+const blurryContentViewport = document.querySelector(".overlay-view");
+//side-bar
+const 
 blurryContent.appendChild(pagecopy);
 window.onscroll = function() {
 
